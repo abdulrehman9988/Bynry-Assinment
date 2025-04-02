@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Bynry-Assignment/static/css/main.7d72cf6d.css",
-    "main.js": "/Bynry-Assignment/static/js/main.108612e2.js",
-    "static/js/453.90b3c031.chunk.js": "/Bynry-Assignment/static/js/453.90b3c031.chunk.js",
-    "index.html": "/Bynry-Assignment/index.html",
-    "main.7d72cf6d.css.map": "/Bynry-Assignment/static/css/main.7d72cf6d.css.map",
-    "main.108612e2.js.map": "/Bynry-Assignment/static/js/main.108612e2.js.map",
-    "453.90b3c031.chunk.js.map": "/Bynry-Assignment/static/js/453.90b3c031.chunk.js.map"
+    "main.css": "/Bynry-Assinment/static/css/main.7d72cf6d.css",
+    "main.js": "/Bynry-Assinment/static/js/main.840f34fc.js",
+    "static/js/453.90b3c031.chunk.js": "/Bynry-Assinment/static/js/453.90b3c031.chunk.js",
+    "index.html": "/Bynry-Assinment/index.html",
+    "main.7d72cf6d.css.map": "/Bynry-Assinment/static/css/main.7d72cf6d.css.map",
+    "main.840f34fc.js.map": "/Bynry-Assinment/static/js/main.840f34fc.js.map",
+    "453.90b3c031.chunk.js.map": "/Bynry-Assinment/static/js/453.90b3c031.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d72cf6d.css",
-    "static/js/main.108612e2.js"
+    "static/js/main.840f34fc.js"
   ]
 }
