@@ -48,12 +48,14 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdulrehman9988/Bynry-Asignment.git"
+    "url": "git+https://github.com/abdulrehman9988/Bynry-Assignment.git"
+
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abdulrehman9988/Bynry-Asignment/issues"
+    "url":"git+https://github.com/abdulrehman9988/Bynry-Assignment.git"
+
   }
 }
